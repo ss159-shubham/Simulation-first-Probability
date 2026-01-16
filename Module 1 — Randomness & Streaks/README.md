@@ -19,8 +19,8 @@ All experiments use synthetic, simulated data only.
 ---
 ## Core Principles
 - Simulation before formulas
-- Distributions before averages
 - Paths before point estimates
+- Distributions before averages
 - Survival before optimization
 - Intuition calibration over mathematical elegance
 ---
@@ -88,7 +88,7 @@ Extreme pain does not require a broken system — only time and randomness.
 Simulate many agents with identical probabilities and compare outcomes.
 
 **Key Insight**:
-Identical odds produce violently different lives, Outcome ≠ skill.
+Identical odds produce violently different lives; outcomes alone are not evidence of skill.
 
 ---
 ## Psychological Outcomes of Module 1
