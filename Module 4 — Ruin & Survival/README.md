@@ -23,8 +23,8 @@ This module marks the shift from “Can it work?” to “Can it survive?”
 
 ---
 ## Learning Objectives
+By completing this module, the reader should be able to:
 
-- By completing this module, the reader should be able to:
 - Distinguish expectancy from survival probability.
 - Understand how variance structure affects ruin risk.
 - Recognize why mean return is often misleading.
